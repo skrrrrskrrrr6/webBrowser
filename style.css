@@ -1,0 +1,14 @@
+body{
+	background-image: linear-gradient(to right bottom, purple, blue, green, purple, white);
+}
+h1{
+	color: rgb(   238, 167, 13 );
+}
+#hel{
+	color: rgb(   238, 167, 13);
+}
+#hey{
+	color: rgb(  238, 167, 13);
+	margin-top: 50px
+
+}
